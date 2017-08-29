@@ -1,0 +1,3 @@
+7-Zip is a free and open-source file archiver, a utility used to place groups of files within compressed containers known as "archives". It is developed by Igor Pavlov and was first released in 1999.[1] 7-Zip uses its own 7z archive format, but can read and write several other archive formats. The program can be used from a command-line interface as the command p7zip,[8] or through a graphical user interface that also features shell integration. Most of the 7-Zip source code is under the GNU LGPL license; the unRAR code, however, is under the GNU LGPL with an "unRAR restriction", which states that developers are not permitted to use the code to reverse-engineer the RAR compression algorithm.[9][10]
+
+https://en.wikipedia.org/wiki/7-Zip
